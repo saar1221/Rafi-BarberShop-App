@@ -8,3 +8,4 @@ For data transfer I used REDUX which stores the user information and the appoint
 
 
 # register
+![](./gif-barbershop-app/register.gif)
