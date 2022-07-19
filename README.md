@@ -27,3 +27,15 @@ the user is on the firebase cloud
 
 # home booking
 ![](./gif-barbershop-app/home-booking.gif)
+
+
+# final-booking
+![](./gif-barbershop-app/final-booking.gif)
+
+
+# gallery screen
+![](./gif-barbershop-app/gallery.gif)
+
+
+# gallery settings
+![](./gif-barbershop-app/settings.gif)
