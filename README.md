@@ -17,6 +17,7 @@ For data transfer I used REDUX which stores the user information and the appoint
 
 # login successful
 the user is on the firebase cloud 
+<br>
 ![](./gif-barbershop-app/login-successful.gif)
 
 
