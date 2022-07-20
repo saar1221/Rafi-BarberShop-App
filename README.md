@@ -1,3 +1,5 @@
+# pay attention  it takes time to load the GIF !!!!
+
 # Rafi-BarberShop-App react native
 
 An application adapted for both ISO and Android, it is tested on both platforms, the app is used for managing and scheduling appointments at Rafi's barbershop. In addition, It contains contact via social media like WhatsApp, Instagram and Facebook.
