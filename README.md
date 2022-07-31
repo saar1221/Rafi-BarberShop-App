@@ -13,12 +13,6 @@ I used NAVIGATION STACK AND TAB technologies to switch between screens.
 For data transfer I used REDUX which stores the user information and the appointment he selected before i upload it to the DB.
 
 
-# register screen
-![](./gif-barbershop-app/register.gif)
-
-
-# login screen
-![](./gif-barbershop-app/login.gif)
 
 
 # login successful
@@ -45,3 +39,12 @@ the user is on the firebase cloud
 
 # gallery settings
 ![](./gif-barbershop-app/settings.gif)
+
+
+# register screen
+![](./gif-barbershop-app/register.gif)
+
+
+# login screen
+![](./gif-barbershop-app/login.gif)
+
