@@ -1,7 +1,7 @@
 # pay attention it take some time to load the GIF!
 
 # DataBase :fireBase(cloud)
-* fireBase authentication for login and regester also add remember login and logout options. 
+* fireBase authentication for login and rigester also add remember login and logout options. 
 * fireStore for making an appointment also add event listener on appointment so that the times and dates selected are always updated.
 
 # Rafi-BarberShop-App react native
